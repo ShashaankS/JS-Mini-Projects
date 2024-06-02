@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+
+}
+#divA{
+    background-color: aqua;
+}
+
+#divB{
+    background-color: gold;
+}
+
+#sideA{
+    text-align: right;
+    background-color: transparent;
+    
+}
+
+#sideB{
+    text-align: right;
+    background-color: transparent;
+}
